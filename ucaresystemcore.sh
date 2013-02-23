@@ -57,9 +57,9 @@ echo " free up any unused disk space without any need of     "
 echo " interference.      				     "      
 echo "_______________________________________________________"
 echo
-echo " uCareSystem Core will start in 5 seconds... "		
+echo " uCareSystem Core will start in 3 seconds... "		
 
-sleep 6
+sleep 4
 
 echo "#########################"
 echo "          Started"
